@@ -1,7 +1,7 @@
 # coronavirus-tracker
 
 
-<h2>Technology: Java, Spring Boot, Thymeleaf, Bootstrap<h2/>
+<h2>Technology: Java, Spring Boot, REST API, Thymeleaf, Bootstrap, Commons CSV<h2/>
   
   <br>
 <h2>Description<h2/>
